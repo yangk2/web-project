@@ -1,0 +1,24 @@
+{
+  "name": "myweb",
+  "version": "0.0.9",
+  "description": "nocoment",
+  "main": "bin/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "good"
+  ],
+  "author": "chyang",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "koa": "^2.11.0",
+    "koa-router": "^7.4.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.7.8",
+    "path": "^0.12.7",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^4.3.0"
+  }
+}
