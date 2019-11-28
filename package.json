@@ -14,7 +14,9 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "koa": "^2.11.0",
+    "koa-helmet": "^5.2.0",
     "koa-router": "^7.4.0",
+    "koa-session": "^5.12.3",
     "moment": "^2.24.0",
     "mongoose": "^5.7.8",
     "path": "^0.12.7",
